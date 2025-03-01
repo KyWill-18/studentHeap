@@ -58,8 +58,42 @@ string lastName
 ```
 Keeping the three class -> Address(), Data(), Student()
 
+loadStudents(SV)
+printStudents(SV)
+showStudent(SV)
+findStudents(SV)
+delStudents(SV)
+menu()
 ```
 
 ## main.cpp
 ```
+0) quit
+1) print all student names
+2) print all student data
+3) find a student (by last name)
+
+if 0
+    program ends
+    print "Goodbye!"
+
+if 1
+    printStudentNames (just names)
+
+if 2
+    printStudents (all student data)
+
+if 3
+    print "What is the last name?"
+    print out the student with that last name
+
+    if no student with that last name
+    print "There is no one with that last name. Sorry!"
+    take back to menu
+```
+  
+
+
+
+
 
