@@ -1,4 +1,4 @@
-# studentHeap - (part 1.)
+# studentHeap - (part 1)
 
 ## Student Data
 ```
@@ -47,3 +47,19 @@ Address::printAddress()
 ```
 
 ## Student()
+```
+strint studentString
+string firstName
+string lastName
+```
+
+
+# Student Heap - (part 2)
+```
+Keeping the three class -> Address(), Data(), Student()
+
+```
+
+## main.cpp
+```
+
